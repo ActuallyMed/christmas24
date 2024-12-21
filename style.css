@@ -1,0 +1,56 @@
+* {
+    color: white;
+}
+
+.centre {
+    text-align: center;
+}
+
+.oneheading {
+    font-size: 100px;
+}
+
+.twoheading {
+    font-size: 75px;
+}
+
+
+.threeheading {
+    font-size: 50px;
+}
+
+.modak {
+    font-family: 'Modak', sans-serif;
+}
+
+.chicle {
+    font-family: 'Chicle', sans-serif;
+}
+
+.itim {
+    font-family: 'Itim', sans-serif;
+}
+
+.just {
+    text-align: justify;
+}
+
+.gh {
+    font-family: 'Gochi Hand', sans-serif;
+}
+
+.mllo {
+    font-family: 'Ewert', sans-serif;
+}
+
+.ss {    
+   font-family: 'Short Stack', sans-serif;
+}
+
+.pm {
+    font-family: 'Permanent Marker', sans-serif;
+}
+
+.as {
+    font-family: 'Astloch', sans-serif;
+}
